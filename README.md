@@ -1,134 +1,91 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hello, I'm Mohamed Khalid
+# <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-khalid)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohamed-khalid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-khalid.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mohamed-khalid.dev)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+# `Mohamed Khalid`
 
-I'm a passionate **Flutter Developer**, **UI/UX Designer**, and **Server-Side Management Specialist** with a keen eye for detail and a love for creating seamless digital experiences. I transform ideas into elegant, functional applications that users love.
+### **Flutter Architect · UI/UX Craftsman · Backend Maestro**
+
+<img width="600" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=300&color=CA6BF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+mobile+experiences;Designing+intuitive+interfaces;Crafting+scalable+backends;Transforming+ideas+into+reality" alt="Typing SVG" />
+
+</div>
+
+<br>
 
 ```dart
-class Developer {
-  final String name = "Mohamed Khalid";
-  final List<String> roles = ["Flutter Developer", "UI/UX Designer", "Server-Side Specialist"];
-  final Map<String, int> experience = {
-    "Flutter": 4,
-    "UI/UX Design": 5,
-    "Server Management": 3,
-  };
+void main() {
+  final developer = Developer(
+    name: "Mohamed Khalid",
+    specialty: "Flutter & UI/UX Design",
+    superpower: "Turning caffeine into beautiful code",
+    currentFocus: "Building intuitive mobile experiences that delight users"
+  );
   
-  void sayHi() => print("Thanks for stopping by! Let's build something amazing together.");
+  developer.introduce();
 }
 ```
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Skills & Tools
+<br>
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-000000?style=for-the-badge&logo=flutter&logoColor=white)
-
-### UI/UX Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
-![Prototyping](https://img.shields.io/badge/Prototyping-4285F4?style=for-the-badge&logoColor=white)
-![User Research](https://img.shields.io/badge/User%20Research-00C7B7?style=for-the-badge&logoColor=white)
-
-### Server-Side Management
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Projects" width="25" height="25" /> Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>FlutterCommerce</h3>
-      <p>A feature-rich e-commerce mobile application built with Flutter, offering seamless shopping experiences with elegant UI and robust backend integration.</p>
-      <p>
-        <a href="https://github.com/mohamed-khalid/fluttercommerce">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github">
-        </a>
-        <a href="https://fluttercommerce-demo.mohamed-khalid.dev">
-          <img src="https://img.shields.io/badge/Demo-Live-green?style=flat-square&logo=google-chrome">
-        </a>
-      </p>
-      <p><strong>Tech Stack:</strong> Flutter, Firebase, Stripe, Provider</p>
-    </td>
-    <td width="50%">
-      <h3>TaskFlow</h3>
-      <p>A productivity application with intuitive UI for task management, supporting teams with real-time synchronization and performance analytics.</p>
-      <p>
-        <a href="https://github.com/mohamed-khalid/taskflow">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github">
-        </a>
-        <a href="https://taskflow.mohamed-khalid.dev">
-          <img src="https://img.shields.io/badge/Demo-Live-green?style=flat-square&logo=google-chrome">
-        </a>
-      </p>
-      <p><strong>Tech Stack:</strong> Flutter, Bloc, Node.js, MongoDB</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>HealthTracker</h3>
-      <p>A comprehensive health monitoring app that helps users track fitness goals, nutrition intake, and wellness metrics with personalized insights.</p>
-      <p>
-        <a href="https://github.com/mohamed-khalid/healthtracker">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github">
-        </a>
-        <a href="https://play.google.com/store/apps/details?id=com.mohamed.healthtracker">
-          <img src="https://img.shields.io/badge/Download-PlayStore-green?style=flat-square&logo=google-play">
-        </a>
-      </p>
-      <p><strong>Tech Stack:</strong> Flutter, GetX, AWS, PostgreSQL</p>
-    </td>
-    <td width="50%">
-      <h3>SmartHome UI Kit</h3>
-      <p>An open-source UI component library for smart home applications, featuring customizable widgets and responsive design patterns.</p>
-      <p>
-        <a href="https://github.com/mohamed-khalid/smarthome-ui-kit">
-          <img src="https://img.shields.io/badge/Code-GitHub-blue?style=flat-square&logo=github">
-        </a>
-        <a href="https://mohamed-khalid.dev/smarthome-ui-kit">
-          <img src="https://img.shields.io/badge/Documentation-Website-green?style=flat-square&logo=google-chrome">
-        </a>
-      </p>
-      <p><strong>Tech Stack:</strong> Flutter, Dart, Storybook</p>
-    </td>
-  </tr>
-</table>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" height="25" /> GitHub Stats
+## <div align="center">⚡ SKILL MATRIX</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamed-khalid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-khalid&layout=compact&langs_count=7&theme=tokyonight"/>
+
+|**MOBILE**|**DESIGN**|**SERVER**|
+|:--:|:--:|:--:|
+|![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)|![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|
+|![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bloc](https://img.shields.io/badge/Bloc-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=white)|![Prototyping](https://img.shields.io/badge/Prototyping-%23512BD4.svg?style=for-the-badge) ![UX Research](https://img.shields.io/badge/UX_Research-%23F05033.svg?style=for-the-badge)|![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)|
+
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Links" width="25" height="25" /> Connect With Me
+<br>
 
-- 💼 [LinkedIn](https://linkedin.com/in/mohamed-khalid)
-- 🌐 [Personal Website](https://mohamed-khalid.dev)
-- 📱 [Twitter](https://twitter.com/mohamed-khalid)
-- 📧 [Email](mailto:contact@mohamed-khalid.dev)
-- 💻 [GitHub](https://github.com/mohamed-khalid)
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" alt="Contact" width="25" height="25" /> Hire Me
-
-I'm currently available for freelance projects and full-time opportunities. If you're looking for a developer who is passionate about creating exceptional mobile experiences with a focus on both aesthetics and functionality, let's connect!
-
----
+## <div align="center">✨ FEATURED CREATIONS</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamed-khalid&color=blueviolet" alt="Profile views"/>
-  <p>⭐️ From <a href="https://github.com/mohamed-khalid">Mohamed Khalid</a></p>
+  
+| **FlutterCommerce** | **TaskFlow** |
+|:-----------------:|:---------------:|
+| <img src="https://img.shields.io/badge/E--Commerce-App-blue?style=flat-square&logo=flutter"> | <img src="https://img.shields.io/badge/Productivity-App-orange?style=flat-square&logo=flutter"> |
+| Seamless shopping experience with elegant UI | Team task management with real-time sync |
+| `Flutter` `Firebase` `Bloc` | `Flutter` `Node.js` `MongoDB` |
+| [Repository](https://github.com/mohamed-khalid) • [Demo](https://mohamed-khalid.dev) | [Repository](https://github.com/mohamed-khalid) • [Demo](https://mohamed-khalid.dev) |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-khalid&theme=radical&hide_border=true" />
+</div>
+
+<br>
+
+## <div align="center">🔮 CONNECT WITH ME</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/mohamed-khalid">
+    <img height="60" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" />
+  </a>
+  <a href="https://twitter.com/mohamed-khalid">
+    <img height="60" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" />
+  </a>
+  <a href="https://mohamed-khalid.dev">
+    <img height="60" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" />
+  </a>
+  <a href="mailto:contact@mohamed-khalid.dev">
+    <img height="60" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  
+  ```
+  Seeking collaborations on innovative mobile projects.
+  Let's build something extraordinary together!
+  ```
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=mohamed-khalid&color=blueviolet&style=for-the-badge)
 </div>
