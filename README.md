@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="50" height="50" />
 
 # `Mohamed Khalid`
-
+<!-- 
 ### **Flutter Architect · UI/UX Craftsman · Backend Maestro**
 
 <img width="600" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=300&color=CA6BF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Building+mobile+experiences;Designing+intuitive+interfaces;Crafting+scalable+backends;Transforming+ideas+into+reality" alt="Typing SVG" />
@@ -88,4 +88,4 @@ void main() {
   ```
   
   ![Profile Views](https://komarev.com/ghpvc/?username=mohamed-khalid&color=blueviolet&style=for-the-badge)
-</div>
+</div> -->
