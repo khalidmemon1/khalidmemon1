@@ -7,7 +7,8 @@ Hello! I'm **John Doe**, a passionate developer focused on **Web Development** a
 - [Project 2](https://github.com/johnDoe/project2) - Description of Project 2
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalidmemon1&show_icons=true&count_private=true&include_all_commits=true)
+)
 
 ## 🔧 Technologies I Use
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
