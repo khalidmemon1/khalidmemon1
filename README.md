@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**khalidmemon1/khalidmemon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **John Doe**, a passionate developer focused on **Web Development** and **Machine Learning**.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Project 1](https://github.com/johnDoe/project1) - Description of Project 1
+- [Project 2](https://github.com/johnDoe/project2) - Description of Project 2
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnDoe&show_icons=true)
+
+## 🔧 Technologies I Use
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+## 📣 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/johndoe)
+- [Twitter](https://twitter.com/johndoe)
