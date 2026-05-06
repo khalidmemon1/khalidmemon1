@@ -17,7 +17,7 @@ Specialized in CI/CD automation, containerized deployments, zero-downtime deploy
 - 🤝 Looking for help with large-scale infrastructure optimization
 - 💬 Ask me about **Docker, Jenkins, GitHub Actions, CI/CD, Linux, Nginx, Cloudflare, Flutter deployment**
 - 📫 Reach me at: **92.khalidm@gmail.com**
-- 👨‍💻 Portfolio: **[your-portfolio-link](https://mohmedkhalid.nuvolin.com/)**
+- 👨‍💻 Portfolio: **[mohmedkhalid.nuvolin.com](https://mohmedkhalid.nuvolin.com/)**
 - ⚡ Fun fact: *I automate everything possible 😄*
 
 ---
@@ -64,12 +64,12 @@ Specialized in CI/CD automation, containerized deployments, zero-downtime deploy
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohmedkhalid1&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmedkhalid1&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=khalidmemon1&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=khalidmemon1&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedkhalid1&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidmemon1&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
