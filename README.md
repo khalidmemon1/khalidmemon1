@@ -1,21 +1,92 @@
 <h1 align="center">Hi 👋, I'm Mohmedkhalid Memon</h1>
-<h3 align="center">DevOps Engineer with 1.5+ years of experience building and managing production-grade infrastructure for 20+ applications serving 10,000+ monthly users. Specialized in CI/CD automation, containerized deployments, and zero-downtime release strategies. Experienced in cloud infrastructure, system security, and high-availability environments using Docker, Jenkins, GitHub Actions, and Cloudflare.</h3>
+<h3 align="center">
+DevOps Engineer with 1.5+ years of experience building and managing production-grade infrastructure for 20+ applications serving 10,000+ monthly users.
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://mohmedkhalid.nuvolin.com/](https://mohmedkhalid.nuvolin.com/)
-
-- 💬 Ask me about **Docker, Jenkins, GitHub Actions, CI/CD, Linux, Nginx, Cloudflare, Flutter deployment**
-
-- 📫 How to reach me **92.khalidm@gmail.com**
-
-- ⚡ Fun fact **I automate everything possible 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohmedkhalid-memon-1457831bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohmedkhalid-memon-1457831bb/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/khld.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/khld.exe/" height="30" width="40" /></a>
+<p align="center">
+Specialized in CI/CD automation, containerized deployments, zero-downtime deployment strategies, cloud infrastructure, Linux systems, and security hardening using Docker, Jenkins, GitHub Actions, Nginx, Cloudflare, and Kubernetes.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidmemon1&show_icons=true&locale=en" alt="khalidmemon1" /></p>
+## 🚀 About Me
+
+- 🔭 Currently working on scalable DevOps infrastructure & automation systems
+- 🌱 Currently learning Kubernetes, advanced cloud orchestration, and platform engineering
+- 👯 Looking to collaborate on open-source DevOps and cloud-native projects
+- 🤝 Looking for help with large-scale infrastructure optimization
+- 💬 Ask me about **Docker, Jenkins, GitHub Actions, CI/CD, Linux, Nginx, Cloudflare, Flutter deployment**
+- 📫 Reach me at: **92.khalidm@gmail.com**
+- 👨‍💻 Portfolio: **[your-portfolio-link](https://mohmedkhalid.nuvolin.com/)**
+- ⚡ Fun fact: *I automate everything possible 😄*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 DevOps & Cloud
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,gcp,azure,bash,linux,nginx,githubactions,cloudflare,git" />
+</p>
+
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,java,php,c,cpp" />
+</p>
+
+### ⚙️ Backend & APIs
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase" />
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+</p>
+
+### 📊 Monitoring & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,postman" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mohmedkhalid1&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohmedkhalid1&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohmedkhalid1&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+
+---
+
+## 🏆 Achievements
+
+- ⚡ Managed infrastructure for **20+ production applications**
+- 🚀 Built automated CI/CD pipelines reducing deployment time significantly
+- 🔒 Implemented secure server architecture with Cloudflare & Linux hardening
+- 📦 Optimized Docker-based deployments for scalability & reliability
+- 🌍 Experience handling high-availability production environments
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohmedkhalid1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
